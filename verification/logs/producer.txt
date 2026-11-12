@@ -1,0 +1,7 @@
+counterexample: marks=14 segments=13 length=68 complete=True
+counterexample gaps: [1, 1, 6, 7, 1, 10, 10, 10, 10, 3, 4, 2, 3]
+Wichmann or reflected among 14-mark rulers: False
+Wichmann 14-mark (r,s,length): [(0, 11, 36), (1, 7, 64), (2, 3, 68)]
+exhaustive max length n=1..8: [0, 1, 3, 6, 9, 13, 17, 23]
+Wichmann completeness: PASS (r,s=0..20, both types: 882 rulers)
+Wichmann lower bounds n=27..32: [251, 270, 289, 308, 327, 350]
