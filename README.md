@@ -3,7 +3,7 @@
 <!-- oeis-status:begin -->
 **OEIS status: not submitted** (lab registry, 15 Nov 2026).
 
-- [A004137](https://oeis.org/A004137), hypothesis of Oct 09 2011 false as worded (example in A193802): **not-for-oeis** (2026-11-15: independent referee 15 Nov 2026: the ruler is historically established and does not disprove Luschny's conjectures as stated). Certificate: partial.
+- [A004137](https://oeis.org/A004137), hypothesis of Oct 09 2011 false as worded (example in A193802): **candidate** (2026-11-15: owner 15 Nov 2026: no correction is too small; back to candidate, on hold with the doubts recorded). Certificate: partial.
 
 Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
 <!-- oeis-status:end -->
