@@ -1,7 +1,7 @@
 # OEIS A004137: Wichmann ruler wording (not yet submitted)
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted** (lab registry, 14 Nov 2026).
+**OEIS status: not submitted** (lab registry, 15 Nov 2026).
 
 - [A004137](https://oeis.org/A004137), hypothesis of Oct 09 2011 false as worded (example in A193802): **candidate** (2026-11-13: repository built (core c5)). Certificate: partial.
 
