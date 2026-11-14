@@ -1,0 +1,12 @@
+$ python3 independent.py
+witness marks=14 segments=13 length=68
+witness spectrum=1..68; missing=0; multiplicity_histogram=[(1, 50), (2, 14), (3, 3), (4, 1)]
+13-gap family cases (r,s,type,length)=[(0, 11, 'major', 36), (0, 11, 'minor', 35), (1, 7, 'major', 64), (1, 7, 'minor', 63), (2, 3, 'major', 68), (2, 3, 'minor', 67)]
+witness Wichmann match including reflection=NO
+complete family cases r,s=0..100, major+minor: 20402/20402 PASS
+maximal major Wichmann lengths vs A289761 formula: segments k=2..200, 199/199 PASS
+elapsed_seconds=10.106522
+$ g++ -O3 -std=c++17 -Wall -Wextra -pedantic exhaustive_small.cpp -o exhaustive_small && ./exhaustive_small
+exact maxima by independent exhaustive search (n:length): 1:0 2:1 3:3 4:6 5:9 6:13 7:17 8:23 9:29 10:36 11:43
+recursive_nodes=860041459
+elapsed_seconds=12.414
